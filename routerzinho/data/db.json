@@ -1,0 +1,31 @@
+{
+"produtos":[
+{
+    "id": 1,
+    "nome": "Camisa Lisa",
+    "tamanho": "M"
+},
+
+{
+    "id": 2,
+    "nome": "Calça Jeans",
+    "tamanho": "40"
+},
+
+{
+    "id": 3,
+    "nome": "Regata Basquete",
+    "tamanho": "XXL"
+},
+
+{
+    "id": 4,
+    "nome": "Regata Basquete",
+    "tamanho": "XXL"
+}
+
+]
+
+
+
+}
